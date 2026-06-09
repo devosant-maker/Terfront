@@ -1,0 +1,17 @@
+{
+  "name": "ipad-online-terminal-frontend",
+  "version": "1.2.0",
+  "description": "Dependency-free static frontend for iPad online terminal",
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev-server.mjs",
+    "build": "node scripts/build.mjs",
+    "preview": "node scripts/dev-server.mjs --dist"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "engines": {
+    "node": "20.x",
+    "npm": "10.x"
+  }
+}
